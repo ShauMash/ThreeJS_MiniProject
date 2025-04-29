@@ -1,3 +1,4 @@
+// Main JS file including full logic
 import * as THREE from "three";
 import spline from "./spline.js";
 import { EffectComposer } from "jsm/postprocessing/EffectComposer.js";
