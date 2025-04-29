@@ -1,3 +1,4 @@
+// ***For Creating a Starfield space-like look***
 import * as THREE from "three";
 
 export default function getStarfield({ numStars = 500 } = {}) {
